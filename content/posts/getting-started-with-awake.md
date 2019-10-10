@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-subtitle: Get Up and Running with Awake
+title: 開催のお知らせ
+subtitle: 開催のお知らせせ
 category:
   - About Awake
 author: Daniel Kelly
